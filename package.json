@@ -1,0 +1,19 @@
+{
+  "name": "archivos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prueba.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LauCardenas/pruebaconexion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LauCardenas/pruebaconexion/issues"
+  },
+  "homepage": "https://github.com/LauCardenas/pruebaconexion"
+}

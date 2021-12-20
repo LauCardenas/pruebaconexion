@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/LauCardenas/pruebaconexion/issues"
   },
-  "homepage": "https://github.com/LauCardenas/pruebaconexion"
+  "homepage": "https://github.com/LauCardenas/pruebaconexion",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
 }
